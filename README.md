@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -6,7 +5,7 @@
     <title>Мой сайт</title>
 </head>
 <body>
-    <h1>Привет! Это мой сайт на GitHub Pages</h1>
-    <p>Здесь будут мои мемы.</p>
+    <h1>Привет! Это мой сайт созданий для тебя</h1>
+    <p>я хотел спросить сосал?.</p>
 </body>
 </html>
